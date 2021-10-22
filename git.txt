@@ -1,0 +1,35 @@
+new repository en github
+
+git clone https://github.com/mohamedhaouali/learn_git_again.git
+
+creer un dossier sur bureau My-Github
+
+
+git init 
+
+git add third.txt
+
+git commit -m "adding third.txt"
+
+git log
+
+git add fourth.txt
+
+git commit -m "adding fourth.txt"
+
+git log
+
+
+git rm --cached third.txt
+
+git commit -m "removing third.txt"
+
+git log
+
+git config --global user.email "mohamed.haouali1@gmail.com"
+
+git config --global user.name "mohamedhaouali"
+
+git config --global
+
+git push -u origin master
